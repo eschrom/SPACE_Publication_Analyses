@@ -1,0 +1,16 @@
+﻿Patient ID,Country,Status,Tissue,Sex,Age
+1,SouthAfrica,Resection,Lung,M,Young
+2,SouthAfrica,Resection,Lung,M,Old
+3,SouthAfrica,Resection,Lung,M,Young
+4,USA_Texas,Postmortem,Lung,M,Young
+5,USA_Texas,Postmortem,Lung,M,Young
+6,USA_Texas,Postmortem,Lung,M,Young
+7,USA_Calif,Biopsy,Lung,F,Old
+8,USA_Calif,Biopsy,Lung,M,Old
+9,USA_Calif,Biopsy,Vertebra,M,NA
+10,USA_Calif,Biopsy,Pleura,M,Old
+11,USA_Calif,Biopsy,Pleura,M,Young
+12,USA_Calif,Biopsy,Pleura,M,Young
+13,USA_Calif,Biopsy,Endometrium,F,Old
+14,USA_Calif,Biopsy,LymphNode,M,Young
+15,USA_Calif,Biopsy,LymphNode,M,Young
