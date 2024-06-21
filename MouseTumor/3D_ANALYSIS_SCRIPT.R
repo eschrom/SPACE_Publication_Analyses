@@ -1,3 +1,6 @@
+### Load SPACE package
+library(SPACE)   # Note that working directories referenced below will not be the same on your machine!
+
 # Figure 4: Analysis of 3d Tumor Volume with CD4 T, CD8 T, and CD31 Objects
 
 # Panel A: Imaris Screenshot of 3d Rendering
