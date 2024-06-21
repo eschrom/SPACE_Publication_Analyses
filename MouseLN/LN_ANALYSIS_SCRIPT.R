@@ -1,10 +1,5 @@
-##### Make changes to SPACE code ##############################################
-setwd("C:/Users/schromec/Desktop/SPACE/SPACE/R")
-devtools::document()
-devtools::install()
-#restart R session
-setwd("C:/Users/schromec/Desktop/SPACE/MouseLN")
-library(SPACE)
+### Load SPACE package
+library(SPACE)   # Note that working directories referenced below will not be the same on your machine!
 
 ### FIGURE 1S: Semi-Supervised Categorization of LN Cell Types #################
 
