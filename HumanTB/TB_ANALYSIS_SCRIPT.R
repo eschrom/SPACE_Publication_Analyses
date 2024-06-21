@@ -1,10 +1,5 @@
-##### Make changes to SPACE code ##############################################
-setwd("C:/Users/schromec/Desktop/SPACE/SPACE/R")
-devtools::document()
-devtools::install()
-#restart R session
-setwd("C:/Users/schromec/Desktop/SPACE/TB")
-library(SPACE)
+### Load SPACE package
+library(SPACE)   # Note that working directories referenced below will not be the same on your machine!
 
 # # SINGLE USE CODE: trim TB cell phenotype maps to the correct size and reorganize
 # load("TB_CPM.Rdata")
@@ -220,7 +215,7 @@ summary(mod)
 emmeans::emmeans(mod, pairwise~Status, infer=T, adjust="none")
 save(VRFY, file = "TB_PTRN1_VRFY.Rdata")
 
-# Investigate the top pattern involving O1.10 and linked scalar expression. O1.10 and O1.13_S1.9\
+# Investigate the top pattern involving O1.10 and linked scalar expression. O1.10 and O1.13_S1.9
 # Export covariation plot as .pdf at 6" x 5" and convert to .png
 # Export scatter plot as .pdf at 6" x 5" and convert to .png
 PTRN2 <- SPACE::learn_pattern(TB_CEN, c("O1.7_S1.3", "O1.10", "O1.13_S1.9"), radius = 10, 
