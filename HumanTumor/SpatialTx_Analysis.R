@@ -1,10 +1,5 @@
-##### Make changes to SPACE code ##############################################
-setwd("C:/Users/schromec/Desktop/SPACE/SPACE/R")
-devtools::document()
-devtools::install()
-#restart R session
-setwd("C:/Users/schromec/Desktop/SPACE/SpatialTx")
-library(SPACE)
+### Load SPACE package
+library(SPACE)   # Note that working directories referenced below will not be the same on your machine!
 
 # Set working directory
 setwd("C:/Users/schromec/Desktop/SPACE/SpatialTx")
