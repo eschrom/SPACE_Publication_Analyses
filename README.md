@@ -6,4 +6,4 @@ This repository contains the scripts for analyses presented in the scientific pu
 - A 2d slice of a human intestinal tumor, captured via Visium spatial transcriptomics.
 - A set of 2d slices of human Tuberculosis granulomas, captured via the MIBI-TOF imaging method.
 
-This repository contains only the R scripts used to perform the analyses presented in the above manuscript, along with select tabular data where applicable. The original data sets are not stored here, but links to them can be found in the manuscript. 
+This repository contains only the R scripts used to perform the analyses presented in the above manuscript, along with select tabular data where applicable. The original data sets are not stored here, but links to them can be found in the manuscript. The source code for the SPACE R package is also not stored here, but it is available in the public repo github.com/eschrom/SPACE.
