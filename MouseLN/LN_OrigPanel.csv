@@ -1,0 +1,43 @@
+﻿Marker,Lineage Interpretation,Functional Interpretation
+JOJO,Nucleus for all cells,
+CD45,Hematopoeitic Lineage,
+MHCII,"Dendritic cells, macrophages, B cells",Antigen presentation to CD4+ T cells
+IgD,B cells,Naïve status
+CD3,T cells,
+CD69,,Proliferation
+Bcl6,,Various gene expression programs
+B220,B cells,
+Ki67,,Proliferation
+PD1,T follicular helper cells,Recent antigen engagement for T cells
+CD35,Follicular dendritic cells,
+Lyve1,Lymphatic endothelial cells,
+Gp38,Lymphatic endothelial cells,
+CD200,"Dendritic cells, B cells, T cells, etc",Activation or cancerous proliferation
+aSMA,Fibroblasts,
+CollagenIV,Fibroblasts,
+CD207,Langerhans cells,
+CD11c,Dendritic Cells,
+F480,Macrophages (MC and MS),
+CD11b,"Macrophages (SS, MC, and MS)",
+CD4,CD4+ T cells,
+FoxP3,Regulatory T cells,
+CD8,CD8+ T cells,
+TCRgd,Gamma-delta T cells,
+DEC205,Dendritic cells,DC maturation
+CD206,,M2 phenotype of macrophages
+SIRPa,Monocytes and dendritic cells,
+CD169,Macrophages (SS and MS),
+CD68,,M1 phenotype of macrophages
+CD64,Neutrophils,
+CD31,Vascular endothelial cells,
+CD23,"Eosinophils, FDCs, activated B cells",
+CD21,FDCs and GC B cells,
+CD106,"B cells, dendritic cells, macrophages",
+Siglec,"eosinophils, mast cells",
+Pax5,B cells,
+CD138,Plasma cells,
+IRF4,,Various gene expression programs
+GL7,,Activation in B and T cells
+CD44,,Maturity of several cell subsets
+NK1.1,NK cells,
+KLRG1,,Activation in NK and T cells
